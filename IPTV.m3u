@@ -203,6 +203,8 @@ http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/01/20170101141958889491_89.jpg",东森综合
 https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023212524554784_66.jpg",东森美洲
+https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 #EXTINF:-1 tvg-id="台湾大爱" tvg-name="台湾大爱"  group-title="港澳台",台湾大爱
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="台湾大爱2" tvg-name="台湾大爱2"  group-title="港澳台",台湾大爱2
@@ -221,10 +223,8 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 https://epg.pw/stream/c26de373680830b38e7b3f0da2f920353f298e3369addfe68b8e4a2e3811a12b.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png",测试
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="M1905电影网" tvg-name="M1905电影网" tvg-logo="https://epg.112114.xyz/logo/M电影网.png" group-title="其他",M1905电影网
-http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影.png" group-title="其他",好莱坞电影
-https://cdn.ggapk.net/live/tv?id=3db9TyWYay1NdB-mChGd2-JR5zobIMaA5Gus5tVVsZycZE8ZyhQ8bpRzwzw_SgYYNxtNJz0YzJrnB9s_TUjE7ALQggolSrjGBHbSwRNUHpHcPtwhUkDduytWBnhtn70FXIQfaWW-6fWaBItmonvpkOXd7Q-TMMhHL1NtjAi7sEsI4M-KZogMvvyIiGk&idp=57caq9gfG9OLaHtohe456HajO2c4nqEkDnZNrKUWmeq3LV8U
+https://cdn.ggapk.net/live/tv?id=9e1dPo7Bbl8UhzQiTRP3E5hnlrUlr_6AskExy0ZaxbfRg_zvMP0wCjC0az1jiurPLgJ7_iSzmmhUxE703b-CNcqxkdpgjmZ7UEW_i-BQCMUay2RibLU7ikH6U6wwC9M3rqzPuXh7ec86a84SYI-Cw8GO57WKtIRqLwAAjs3zTgz910RWs3NmNvPb8SY&idp=1a20yEhwZN1pE5vbHVVm9vDgML3saxNeVimECbRvqgQmQSBR
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="地方",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="地方",黑莓动画
@@ -235,8 +235,50 @@ https://tv.iill.top/migu/dzdy
 https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 #EXTINF:-1 group-title="明星" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525045024714182_29.png",周星驰
 https://epg.pw/stream/697d8897aa092fac7beb31b9806dfd4bb3197e96d9b15e752766d89f5fb66672.ctv
-#EXTINF:-1 group-title="明星" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png",经典影视
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/2e/6566e3e908ec0ae09387e3ab594ba2_180_135.jpg?1446441422" group-title="明星",李连杰
+https://www.goodiptv.club/huya/11342390
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/c7/797022247e11ba9454d87ebe320aa7_180_135.jpg" group-title="明星",甄子丹
+https://www.goodiptv.club/huya/11352935
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1063/c4/cec137bcfb0fcd9f3e91d7d4874404_180_135.jpg" group-title="明星",周润发
+https://www.goodiptv.club/huya/11342387
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="明星",林正英
+https://www.goodiptv.club/huya/11342421
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1049/6d/cd3d96918d66017ae9eaa9e1eaa322_180_135.jpg?1445837265" group-title="明星",洪金宝
+https://www.goodiptv.club/huya/11279251
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="明星",成龙
+https://www.goodiptv.club/huya/11342386
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825" group-title="明星",沈腾
+https://www.goodiptv.club/huya/11601968
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23735126
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/f0/c11edcd69348c39482354e379f3aba_180_135.jpg?1609139259" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23865080
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/58/cc99b60be1894e5f14cd523d36549e_180_135.jpg?1606722001" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23734169
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/15/a6e0b1c53349fd819ab15dd3c7db71_180_135.jpg?1612404715" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23863804
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23903123
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/13/d1e296180dda55ff7503c586380351_180_135.jpg?1612406399" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23903130
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/1d/28f60c094ecdd69e369ec66ccefbde_180_135.jpg?1612247274" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23865152
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/b11b405e9f2bd9d403a62334ab4f64_180_135.jpg?1606985476" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23740156
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/7c/cfd75a9685810e554be7a40064a2c0_180_135.jpg?1609138832" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23865036
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/4d/795a56e5155126f22eed208b64f4ca_180_135.jpg?1609139981" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23903196
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/31/bdeef52846f325c3650510cc8df256_180_135.jpg?1609138995" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23865058
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e6/921dc8124c0c9673cb61d2fc59ad1d_180_135.jpg?1606721823" group-title="港剧",埋堆堆
+https://www.goodiptv.club/huya/23734183
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/7a/cb8973377344af6c04bd31aecadc21_180_135.jpg?1640312947" group-title="电影",放映厅
+https://www.goodiptv.club/huya/11602077
+#EXTINF:-1 group-title="内地" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png",狂飙
 https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv
+#EXTINF:-1 group-title="北京" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513150106066939_87.jpg",北京生活
+https://epg.pw/stream/91664c3255fc3b9a327e5fa77c1148f1ccf6b43b84be012f84ec127c577145af.m3u8
 #EXTINF:-1 group-title="北京" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827034519876304_16.png",北京淘BABY
 https://epg.pw/stream/546678813022c60ce2cda8d4db354fb34f59fa03eff6d2d8285e52f52049ea82.ctv
 #EXTINF:-1 group-title="北京" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827034945147755_53.png",北京淘剧场
@@ -249,6 +291,14 @@ https://epg.pw/stream/0163d007c5f88cc778ce4b753afb81eb14f6ed35db2f1fb8f04b72b08a
 https://epg.pw/stream/3138cb1a1dc73bdf6ce7e465442b95eee3f6647808830db5a6a5d62f7ab61a98.ctv
 #EXTINF:-1 group-title="北京" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png",北京纪实8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 group-title="内蒙古" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161624183518_95.jpg",内蒙古农牧
+https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
+#EXTINF:-1 group-title="内蒙古" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531224556038609_37.jpg",内蒙古经济生活
+https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8
+#EXTINF:-1 group-title="内蒙古" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161101868480_69.jpg",内蒙古蒙语文化
+https://epg.pw/stream/259625f9cd412bc5d6d12bcbbe529129a32a8dd00caf955bd6479233d348d174.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg",内蒙古蒙语卫视
+https://epg.pw/stream/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8
 #EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="数字",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV武搏世界" tvg-name="NEWTV武搏世界" tvg-logo="https://epg.112114.xyz/logo/NEWTV武搏世界.png" group-title="数字",武搏世界
@@ -342,25 +392,27 @@ https://adsmind.gdtimg.com/0b53iiajcaaad4afrgquj5tkcqwdsfbabeia.f140030.mp4?dis_
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第18集
 https://adsmind.gdtimg.com/0b53kqapaaaahmadtoyueftkcvgd6bkab4aa.f140030.mp4?dis_k=c59f4194db42ec6d7c72952a841d2295&dis_t=1712641702
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第19集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx194202404101805416q147517w8sNDDyA&contentID=1F11qzr8hHcx194202404101805416q1&dom=D971&oprChannel=10000000&filename=NTk1MWM2M2E0NzQxYTBjZjc1NDJmYTUzNDM1Y2E4YWMubTN1OA==&rate=0
+https://223.111.150.92:10920/vods/hls/dhz/13/12130/24041013/373086/1920/index.m3u8?appId=kkdy&sign=cca5cf287947e2eedc4288975923f7a5&timestamp=1713523387
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第20集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx19420240410232510ajy41317w8sNnYff&contentID=1F11qzr8hHcx19420240410232510ajy&dom=D970&oprChannel=10000000&filename=NTUwZWFhZmY5NGMzYmQxMmE2NmYyMzkwOGQxMzE5NGQubTN1OA==&rate=0
+https://223.111.134.74:11420/vods/hls/dhz/13/12130/24041013/373085/1920/index.m3u8?appId=kkdy&sign=c94eb79f4b872f749872add6283a7f6d&timestamp=1713523370
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第21集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx191202404121332358t895317w8sOOq99&contentID=1F11qzr8hHcx191202404121332358t8&dom=D973&oprChannel=10000000&filename=YWI4NmY3ZTFhNDY5MDc4ZjJlNWQ3OTczZmE2Mzk5ZmUubTN1OA==&rate=0
+https://223.111.150.92:10920/vods/hls/dhz/13/12130/24041118/384375/1920/index.m3u8?appId=kkdy&sign=0c679a54993ef6ccca129ae52520524f&timestamp=1713523352
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第22集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx19320240412122520al245717w8sMmlml&contentID=1F11qzr8hHcx19320240412122520al2&dom=D970&oprChannel=10000000&filename=YzNmOGYwNWNlNmIwMzJhMTFiZGY5YjI0MDEwYzcyNzAubTN1OA==&rate=0
+https://223.111.134.74:11420/vods/hls/dhz/13/12130/24041515/391893/1920/index.m3u8?appId=kkdy&sign=d216d44bffef53e84a13408542b5eafb&timestamp=1713523333
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第23集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx19020240417204754nyx45517w8sOgTFd&contentID=1F11qzr8hHcx19020240417204754nyx&dom=D973&oprChannel=10000000&filename=ZjIwNGRhZmE2MTYwMDk4YTJjNzUzMDkzOWFiN2JkZGMubTN1OA==&rate=0
+https://223.111.150.92:10920/vods/hls/dhz/13/12130/24041512/433649/1920/index.m3u8?appId=kkdy&sign=472b0c6fb9b7c6df0ae3f959ea1a0171&timestamp=1713523315
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第24集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx1932024041512201531192317w8sNnsiN&contentID=1F11qzr8hHcx19320240415122015311&dom=D970&oprChannel=10000000&filename=YTE0NGRlYzE3Yjc3NmQ2ZmE0N2EwMjVhMTE1YmY5YzgubTN1OA==&rate=0
+https://223.111.202.82:11300/vods/hls/dhz/13/12130/24041512/433648/1920/index.m3u8?appId=kkdy&sign=6d2ba3c88d7c408c948831cc7bd662b4&timestamp=1713523293
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第25集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx19220240416134246f5w10817w8sK-GqU&contentID=1F11qzr8hHcx19220240416134246f5w&dom=D973&oprChannel=10000000&filename=YzUzY2ZjOTk5ZDIzODAwOWExMWMzYTZiYTk4ODJhZGUubTN1OA==&rate=0
+https://223.111.150.92:10920/vods/hls/dhz/13/12130/24041612/480856/1920/index.m3u8?appId=kkdy&sign=a5ffd9ff47819743d38b174148a4e244&timestamp=1713523274
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第26集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx189202404161219335df47317w8sK_K41&contentID=1F11qzr8hHcx189202404161219335df&dom=D970&oprChannel=10000000&filename=ZWIwNjRlYjY3ZTczOTVjMzgzM2VjYjA0MTIyZjY4MWIubTN1OA==&rate=0
+https://223.111.150.92:10920/vods/hls/dhz/13/12130/24041612/480855/1920/index.m3u8?appId=kkdy&sign=314318ac1f2b9ae17043f08fab8965c9&timestamp=1713523256
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第27集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx19320240418122412bvu44917w8sP3DGN&contentID=1F11qzr8hHcx19320240418122412bvu&dom=D970&oprChannel=10000000&filename=MTRmZGY2MTA3NzAwOTYzODRkZTkyODQ4YTE1NjUwYTQubTN1OA==&rate=0
+https://223.111.202.82:11300/vods/hls/dhz/13/12130/24041716/511329/1920/index.m3u8?appId=kkdy&sign=72a2a026a89d343b06ed8ec068a62ca6&timestamp=1713523232
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第28集
-https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/pcDownloadFile?code=1F11qzr8hHcx19120240418182157d5m46717w8sOgqwe&contentID=1F11qzr8hHcx19120240418182157d5m&dom=D971&oprChannel=10000000&filename=ZDNmNTIyYTk1NDc2ODJlYzA5ZjlhM2UwZDU1YzQ4MjEubTN1OA==&rate=0
+https://223.111.150.92:10920/vods/hls/dhz/13/12130/24041812/537618/1920/index.m3u8?appId=kkdy&sign=7731ba8fa00ac7ec2b04213a78a03adc&timestamp=1713523177
+#EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第29集
+https://223.111.134.74:11420/vods/hls/dhz/13/12130/24041912/577778/1920/index.m3u8?appId=kkdy&sign=510c1d4e2d4ad7ef2228568214dacdd2&timestamp=1713523453
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉
 http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
