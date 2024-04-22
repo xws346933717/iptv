@@ -275,6 +275,8 @@ https://www.goodiptv.club/huya/23865058
 https://www.goodiptv.club/huya/23734183
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/7a/cb8973377344af6c04bd31aecadc21_180_135.jpg?1640312947" group-title="电影",放映厅
 https://www.goodiptv.club/huya/11602077
+#EXTINF:-1 group-title="LPL",LPL总决赛
+https://www.goodiptv.club/huya/lpl
 #EXTINF:-1 group-title="内地" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png",狂飙
 https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv
 #EXTINF:-1 group-title="北京" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513150106066939_87.jpg",北京生活
@@ -413,6 +415,10 @@ https://223.111.202.82:11300/vods/hls/dhz/13/12130/24041716/511329/1920/index.m3
 https://223.111.150.92:10920/vods/hls/dhz/13/12130/24041812/537618/1920/index.m3u8?appId=kkdy&sign=7731ba8fa00ac7ec2b04213a78a03adc&timestamp=1713523177
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第29集
 https://223.111.134.74:11420/vods/hls/dhz/13/12130/24041912/577778/1920/index.m3u8?appId=kkdy&sign=510c1d4e2d4ad7ef2228568214dacdd2&timestamp=1713523453
+#EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第30集
+https://leshiyuncdn.36s.top/20240422/SKoi5RIB/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷"group-title="网剧",惜花芷第31集
+https://leshiyuncdn.36s.top/20240422/2POn5wUZ/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉
 http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
