@@ -227,13 +227,13 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="央视IPV6" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="明星",成龙
-http://159.75.85.63:35455/huya/11342386
+https://www.goodiptv.club/huya/11342386
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825" group-title="明星",沈腾
 http://159.75.85.63:35455/huya/11601968
 #EXTINF:-1 group-title="明星" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525045024714182_29.png",周星驰
-http://159.75.85.63:35455/huya/11342412
+https://www.goodiptv.club/huya/11342412
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/2e/6566e3e908ec0ae09387e3ab594ba2_180_135.jpg?1446441422" group-title="明星",李连杰
-http://159.75.85.63:35455/huya/11342390
+https://www.goodiptv.club/huya/11342390
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/c7/797022247e11ba9454d87ebe320aa7_180_135.jpg" group-title="明星",甄子丹
 http://159.75.85.63:35455/huya/11352935
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1063/c4/cec137bcfb0fcd9f3e91d7d4874404_180_135.jpg" group-title="明星",周润发
@@ -243,7 +243,7 @@ http://159.75.85.63:35455/huya/11342421
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1049/6d/cd3d96918d66017ae9eaa9e1eaa322_180_135.jpg?1445837265" group-title="明星",洪金宝
 http://159.75.85.63:35455/huya/11279251
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23735126
+https://www.goodiptv.club/huya/23735126
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/f0/c11edcd69348c39482354e379f3aba_180_135.jpg?1609139259" group-title="港剧",埋堆堆
 http://159.75.85.63:35455/huya/23865080
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/58/cc99b60be1894e5f14cd523d36549e_180_135.jpg?1606722001" group-title="港剧",埋堆堆
@@ -596,3 +596,27 @@ https://tbmv.music.tc.qq.com/0b533ucakaaeyqabysbopjtklxodaxoqibia.f160030.mp4?di
 https://tbmv.music.tc.qq.com/0b533eaaeaaajqaeqpzkhbtkdwodalmqaaqa.f160030.mp4?dis_k=240108ef4a969bfd70cc2ff02d7e9807&dis_t=1714048733
 #EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第28集
 https://tbmv.music.tc.qq.com/0b53ambweaadsyacqtzj3ztkea6dmibqgyqa.f160030.mp4?dis_k=e73fb10003b3a658e357140390eca4e9&dis_t=1714048744
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第29集
+https://tbmv.music.tc.qq.com/0b53pucaqaaeoeajfibptftkk7odbb6qicaa.f160030.mp4?dis_k=f3235b46279cbda5bce4ff72079ecb4b&dis_t=1714135390
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第30集
+https://tbmv.music.tc.qq.com/0b53vaamcaaammac2ojm6jtkdkgdyguabqia.f160030.mp4?dis_k=f0b8af0c91267277e14fbd5e05d1025b&dis_t=1714224131
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第31集
+https://tbmv.music.tc.qq.com/0b53aycicaaehiame4bk6btkkbwdqedajaia.f160030.mp4?dis_k=cd847973a88ca8f5cc1790882939f7ac&dis_t=1714308692
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第32集
+https://tbmv.music.tc.qq.com/0b53dubp6aacjualzbjma5tkghod74oqf7ya.f160030.mp4?dis_k=9f3edd84c98509b2c7510a2ce564baea&dis_t=1714308701
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第33集
+https://tbmv.music.tc.qq.com/0b53faakoaaat4aflsbptztkckgdu4uabjya.f160030.mp4?dis_k=6c07b5b8378e80867fa2557b66119b4c&dis_t=1714461123
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第34集
+https://tbmv.music.tc.qq.com/0b53dqacwaaawuanscrpmntkchgdfmoaakya.f160030.mp4?dis_k=80767a13ae629cc71c0291174e52e82a&dis_t=1714461133
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第35集
+https://tbmv.music.tc.qq.com/0b53seamkaaa3yadb4zq75tkdeodywiqbria.f160030.mp4?dis_k=6441df407727149a1dcf0532c71524b5&dis_t=1714487795
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第36集
+https://tbmv.music.tc.qq.com/0b53weaamaaa2aaphyrqjftkdmoda2yqabqa.f160030.mp4?dis_k=495adbae567b3d9887f88083d917782e&dis_t=1714487805
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第37集
+https://tbmv.music.tc.qq.com/0b53suckmaae34afjoju3vtklfodu2kqjjqa.f160030.mp4?dis_k=9cdfd7565a5b7ac53b53654df5fc4342&dis_t=1714487818
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第38集
+https://tbmv.music.tc.qq.com/0b535madcaaawaamgbrqpbtkd26dghvqamia.f160030.mp4?dis_k=343dba25d4a116b17bce067c3dbfe465&dis_t=1714487828
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第39集
+https://tbmv.music.tc.qq.com/0b53zmah2aaasaai7brqhrtkds6dpxfqa7ia.f160030.mp4?dis_k=d0f6f727c88feed3eb6bce96042168be&dis_t=1714487837
+#EXTINF:-1 tvg-id="城中之城" tvg-name="城中之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/城中之城.png" group-title="网剧",城中之城第40集
+https://tbmv.music.tc.qq.com/0b5324cjkaaeoaagp4jufjtklv6dsxlqjfia.f160030.mp4?dis_k=63cc4004f26d2136b44fcc9dff4944fb&dis_t=1714487846
