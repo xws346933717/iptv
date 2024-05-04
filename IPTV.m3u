@@ -196,8 +196,6 @@ https://epg.pw/stream/871627cefa0727603ae38287f349e796402982c186ea32bea812ef9d76
 https://epg.pw/stream/d4dcd98906fba0a18eb76bb7f65475dc66f810649b9cf99e37b4b1e0c30a1593.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳台",天映经典
 https://epg.pw/stream/650b7ee852ac9d81e93aac5a9b99fbc463a7f0020ad46f5210939c31d69a628a.ctv
-#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.com/tv/澳视卫星.png" group-title="港澳台",三立新闻
-https://epg.pw/stream/ae362af69eda8cee8e1789bd9fa32cd22b00032d40e277ce429803df204b7452.m3u8
 #EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://live.fanmingming.com/tv/澳门资讯.png" group-title="港澳台",中天亚洲
 https://epg.pw/stream/7d5f7bb550596ec9f43aed600bd4ef31c93b7232035060e9bba7682f0de8dd3d.ctv
 #EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://live.fanmingming.com/tv/澳门资讯.png" group-title="港澳台",中天新闻
@@ -235,47 +233,47 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="明星",成龙
 https://www.goodiptv.club/huya/11342386
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825" group-title="明星",沈腾
-http://159.75.85.63:35455/huya/11601968
+https://www.goodiptv.club/huya/11601968
 #EXTINF:-1 group-title="明星" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525045024714182_29.png",周星驰
 https://www.goodiptv.club/huya/11342412
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/2e/6566e3e908ec0ae09387e3ab594ba2_180_135.jpg?1446441422" group-title="明星",李连杰
 https://www.goodiptv.club/huya/11342390
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/c7/797022247e11ba9454d87ebe320aa7_180_135.jpg" group-title="明星",甄子丹
-http://159.75.85.63:35455/huya/11352935
+https://www.goodiptv.club/huya/11352935
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1063/c4/cec137bcfb0fcd9f3e91d7d4874404_180_135.jpg" group-title="明星",周润发
-http://159.75.85.63:35455/huya/11342387
+https://www.goodiptv.club/huya/11342387
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="明星",林正英
-http://159.75.85.63:35455/huya/11342421
+https://www.goodiptv.club/huya/11342421
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1049/6d/cd3d96918d66017ae9eaa9e1eaa322_180_135.jpg?1445837265" group-title="明星",洪金宝
-http://159.75.85.63:35455/huya/11279251
+https://www.goodiptv.club/huya/11279251
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="港剧",埋堆堆
 https://www.goodiptv.club/huya/23735126
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/f0/c11edcd69348c39482354e379f3aba_180_135.jpg?1609139259" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23865080
+https://www.goodiptv.club/huya/23865080
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/58/cc99b60be1894e5f14cd523d36549e_180_135.jpg?1606722001" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23734169
+https://www.goodiptv.club/huya/23734169
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/15/a6e0b1c53349fd819ab15dd3c7db71_180_135.jpg?1612404715" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23863804
+https://www.goodiptv.club/huya/23863804
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23903123
+https://www.goodiptv.club/huya/23903123
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/13/d1e296180dda55ff7503c586380351_180_135.jpg?1612406399" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23903130
+https://www.goodiptv.club/huya/23903130
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/1d/28f60c094ecdd69e369ec66ccefbde_180_135.jpg?1612247274" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23865152
+https://www.goodiptv.club/huya/23865152
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/b11b405e9f2bd9d403a62334ab4f64_180_135.jpg?1606985476" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23740156
+https://www.goodiptv.club/huya/23740156
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/7c/cfd75a9685810e554be7a40064a2c0_180_135.jpg?1609138832" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23865036
+https://www.goodiptv.club/huya/23865036
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/4d/795a56e5155126f22eed208b64f4ca_180_135.jpg?1609139981" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23903196
+https://www.goodiptv.club/huya/23903196
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/31/bdeef52846f325c3650510cc8df256_180_135.jpg?1609138995" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23865058
+https://www.goodiptv.club/huya/23865058
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e6/921dc8124c0c9673cb61d2fc59ad1d_180_135.jpg?1606721823" group-title="港剧",埋堆堆
-http://159.75.85.63:35455/huya/23734183
+https://www.goodiptv.club/huya/23734183
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/7a/cb8973377344af6c04bd31aecadc21_180_135.jpg?1640312947" group-title="电影",放映厅
-http://159.75.85.63:35455/huya/11602077
+https://www.goodiptv.club/huya/11602077
 #EXTINF:-1 group-title="LPL",LPL总决赛
-http://159.75.85.63:35455/huya/lpl
+https://www.goodiptv.club/huya/lpl
 #EXTINF:-1 tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://epg.112114.xyz/logo/斗鱼4K影院.png" group-title="其他",斗鱼4K影院
 https://www.goodiptv.club/douyu/9249162
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="NewTV系列",黑莓电影
@@ -674,6 +672,8 @@ https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oEwDbbDuFiNNMezAAb
 https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oglPCrX9IEVaroTBzMmDjDnBIE5hQNhfgAeFEN
 #EXTINF:-1 tvg-id="凡人修仙传" tvg-name="凡人修仙传" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/凡人修仙传.png" group-title="动漫",凡人修仙传第99集
 https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/osxdAUOHIiAsG8ZqCJqiOA4EzXZbYUaBPl4i0
+#EXTINF:-1 tvg-id="凡人修仙传" tvg-name="凡人修仙传" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/凡人修仙传.png" group-title="动漫",凡人修仙传第100集
+https://upos-szbyjkm8g1.bilivideo.com/upgcxcode/93/06/1022370693/1022370693-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1714806037&gen=playurlv2&os=alibv&oi=997078432&trid=cbaad32c24e148c0a5f12802bc81aca7u&mid=0&platform=pc&upsig=04ae43160bbf27692a8aa2f3d91eeede&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&buvid=&build=0&f=u_0_0&agrr=0&bw=50090&logo=80000000
 #EXTINF:-1 tvg-id="完美世界" tvg-name="完美世界" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/完美世界.png" group-title="动漫",完美世界第161集
 https://tbmv.music.tc.qq.com/0b53rubdsaacvaalyjjrdjtkhdodhggqeoia.f160030.mp4?dis_k=cb151f5497653237da6e3623275d25f0&dis_t=1714654363
 #EXTINF:-1 tvg-id="神印王座" tvg-name="神印王座" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/神印王座.png" group-title="动漫",神印王座第105集
