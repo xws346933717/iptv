@@ -472,6 +472,14 @@ https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d
 https://epg.pw/stream/259625f9cd412bc5d6d12bcbbe529129a32a8dd00caf955bd6479233d348d174.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg",内蒙古蒙语卫视
 https://epg.pw/stream/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8
+#EXTINF:-1 tvg-id="第二十条" tvg-name="第二十条" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/第二十条.png" group-title="电影",第二十条
+https://tbmv.music.tc.qq.com/0b532udckaagvyallyb5kntkpvodexkqmjia.f140030.mp4?dis_k=6a022b47326561728c031dbfc335dd61&dis_t=1715186849
+#EXTINF:-1 tvg-id="飞驰人生2" tvg-name="飞驰人生2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/飞驰人生2.png" group-title="电影",飞驰人生2
+https://tbmv.music.tc.qq.com/0b53k56wmad5y4aoz6cndftnyv6dmzlx2zqa.f140030.mp4?dis_k=267e91cbc4ea67f049b8e7bdc0a93968&dis_t=1714461535
+#EXTINF:-1 tvg-id="超意神探" tvg-name="超意神探" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/超意神探.png" group-title="电影",超意神探
+https://tbmv.music.tc.qq.com/0b53y4ao6aaaruakcpaosztkdr6d57dqb3ya.f140030.mp4?dis_k=9ea5171e0a4c33b4dc53f0015c13dca7&dis_t=1712218758
+#EXTINF:-1 tvg-id="冰封之城" tvg-name="冰封之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/冰封之城.png" group-title="电影",冰封之城
+https://jx.sumun.cn/Vtche/LZ/1349254507.m3u8
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/惜花芷.png" group-title="网剧",惜花芷第01集
 https://adsmind.gdtimg.com/0b536yaciaaah4akecaltvtkd5wdet3aajaa.f140030.mp4?dis_k=4a5183cc418feee1a50b741158d24c50&dis_t=1712033120
 #EXTINF:-1 tvg-id="惜花芷" tvg-name="惜花芷" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/惜花芷.png" group-title="网剧",惜花芷第02集
@@ -684,3 +692,53 @@ https://jx.sumun.cn/Vtche/LZ/3174164820.m3u8
 https://tbmv.music.tc.qq.com/0b53rubdsaacvaalyjjrdjtkhdodhggqeoia.f160030.mp4?dis_k=cb151f5497653237da6e3623275d25f0&dis_t=1714654363
 #EXTINF:-1 tvg-id="神印王座" tvg-name="神印王座" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/神印王座.png" group-title="动漫",神印王座第105集
 https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oIzmMCPwnAu9VNCvgIFqM9QDufeAiOvEBDBgyE
+#EXTINF:-1 tvg-id="神印王座" tvg-name="神印王座" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/神印王座.png" group-title="动漫",神印王座第106集
+https://jx.sumun.cn/Vtche/LZ/1968836064.m3u8
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第33集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oo7Arl4fAeSM4qAV28fFGf650QE4IXWpLJ1p8M
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第34集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oERawACIEoX7aiEyJuifAAwoUiscMsIGmXBwBY
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第35集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/o8fdfxSMK7Dx2dc3C2LIANGZG9AbrzMIQge2g3
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第36集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/osffGfUoggN1eP0MlLsZJYRKERFqAfZ4AA3sos
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第37集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/osLWIRKGAGIpJAw8fc2CeLrBBDgJbEeEbuI2YX
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第38集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/owQMrLWaeFleGIGMIeTHQAxAIgeUIVRvLUuA2E
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第39集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oQFp3GVLOAgyDOsqE4ufUbeCgW7fIiIkGvcAQD
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第40集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oUFctDrKIAQpuWxDiBxE3zGeDQGNgJFaltBUSf
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第41集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oEABiBuPGD573iewIU1GifX0QcsUlEA9jBlNgm
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第42集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/ocIDmNBl2u5qjFMI2q6DagUDQwBfAOO9eEDgEa
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第43集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/o853XEz7iYHcA027vwnkiUvqUCbLAEnIAZBX4
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第44集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/ooiZx8By6AQNAp6Xi02qPmTAoiVfEng4B0dwIB
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第45集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/o4n7JygLfAA7YFBBB2DbKiEw2im0Z77y8oiIAY
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第46集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oUS4gLG5bGDceRDr99IgzbCAKTSAVWevvLeYxu
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第47集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oYBBNADq6L6fleaqr78pQUYEv2qFQDlqBIgA7w
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第48集
+https://tbmv.music.tc.qq.com/0b53ciawuaabkyahnn72zns2aewdnijac2qa.f160030.mp4?dis_k=cbf91859553b94d62a1bd9573cb8cd91&dis_t=1710959940
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第49集
+https://tbmv.music.tc.qq.com/0b53pybukaadmiafscpypbs2e7wdiv7agria.f160030.mp4?dis_k=66e9940efa3a75f31451b55ea3a1d36d&dis_t=1710959952
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第50集
+https://tbmv.music.tc.qq.com/0b53yuaiwaaatuao2uqdsztkdrodrpcqbcya.f160030.mp4?dis_k=919c24bee261dc6a127c114841417e18&dis_t=1711499849
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第51集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/ok9YxAfigwBIzMBo1EAamVAVE7ISiOBoB6sqUN
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第52集
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/osEgjeNDQBAf7IEbumJg3gPHQBFm5aGD2Zzj79
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第53集
+https://tbmv.music.tc.qq.com/0b53t4bm2aacwmahnwq4jvtkhh6dzwpqftia.f160030.mp4?dis_k=803aba5a18e203db0fcecf0919d17714&dis_t=1713333806
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第54集
+https://tbmv.music.tc.qq.com/0b53wia5gaabk4ahwdbg3ftkbmwd2ozaduya.f160030.mp4?dis_k=1b3abdd68bf4da102f4629e5d34693ba&dis_t=1713878043
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第55集
+https://tbmv.music.tc.qq.com/0b53lqcgoaaem4ajajju6ftkkxgdm5oaizya.f160030.mp4?dis_k=c653906f1879eecd6854b85b0b9e4c0f&dis_t=1714487918
+#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第56集
+https://tbmv.music.tc.qq.com/0b53quacsaaaqeadmsj2kftkdbodfgcqakia.f160030.mp4?dis_k=4e0ebbd72ce4b88d503979b7f02e38a5&dis_t=1715167440
