@@ -84,7 +84,7 @@ http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png",中国教育3台
 http://114.254.94.104:2222/rtp/239.3.1.55:4120
 #EXTINF:-1 group-title="教育" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png",中国教育4台
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+http://116.131.173.194:809/hls/100/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视IPV6",北京卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000173/index.m3u8?IAS
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视IPV6",湖南卫视
@@ -468,10 +468,18 @@ http://61.188.254.15:9527/udp/239.93.42.32:5140
 http://125.69.147.107:8888/udp/239.93.1.179:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" group-title="其他",亲子趣学
 http://125.69.147.107:8888/udp/239.93.1.191:5140
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" group-title="其他",优优宝贝
+http://1.82.182.205:9999/rtp/239.111.205.62:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="其他",天元围棋
 http://125.69.147.107:8888/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="综艺咖秀" tvg-name="综艺咖秀" group-title="其他",综艺咖秀
 http://125.69.147.107:8888/udp/239.93.1.176:5140
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" group-title="其他",生态环境
+http://1.82.182.205:9999/rtp/239.111.205.60:5140
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="其他",环球旅游
+http://1.82.182.205:9999/rtp/239.111.205.61:5140
+#EXTINF:-1 tvg-id="车迷频道" tvg-name="车迷频道" group-title="其他",车迷频道
+http://1.82.182.205:9999/rtp/239.111.205.63:5140
 #EXTINF:-1 tvg-id="空中剧院" tvg-name="空中剧院" group-title="其他",空中剧院
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000420/index.m3u8
 #EXTINF:-1 tvg-id="军事纪实" tvg-name="军事纪实" group-title="其他",军事纪实
@@ -624,6 +632,10 @@ https://adsmind.gdtimg.com/0b533aacuaaajiagfhchfbtkdwgdflmaakqa.f160030.mp4?dis_
 https://adsmind.gdtimg.com/0b53ueag2aaafuapilkiuztkdiodnwqqa3ia.f160030.mp4?dis_k=693a17c7a79a4c69bd72676507f833cd&dis_t=1716034712
 #EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第09集
 https://v.kdv1qb.qq.com/10002-nkvlog_0bc334aa4aaaoqaow52jsvtfdx6db3pqadsa.f0.mp4?dis_k=fa583ddfd4247b4b3f56f82e9b3837fb&dis_t=1716119030
+#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第10集
+https://v.kdv1qb.qq.com/10002-nkvlog_0bc3euabiaaakaacylclrntfcjodcqsqafca.f0.mp4?dis_k=ce78de8e54a26d8c7a08a2616d53210a&dis_t=1716205916
+#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第11集
+https://v.kdv1qb.qq.com/10002-nkvlog_0bc3nuaakaaa6mad3zklantfc3odavwqabka.f0.mp4?dis_k=086dc7300db5ced8bd85db9ae3a51795&dis_t=1716205924
 #EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第01集
 https://adsmind.gdtimg.com/0b53eiaaaaaajmamwgsbxrtkciwdaaraaaaa.f160030.mp4?dis_k=87948f762c12ef7563ebbe07dca30134&dis_t=1715590459
 #EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第02集
@@ -701,7 +713,7 @@ https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/o4y1vowGfAIECKwiYB
 #EXTINF:-1 tvg-id="凡人修仙传" tvg-name="凡人修仙传" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/凡人修仙传.png" group-title="动漫",凡人修仙传第101集
 https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oQI2fAYAbcfkzxQ9DGQ7jfFZgPuFKAf7ExMnER
 #EXTINF:-1 tvg-id="凡人修仙传" tvg-name="凡人修仙传" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/凡人修仙传.png" group-title="动漫",凡人修仙传第102集
-https://svipsvip.ffzy-online5.com/20240518/27415_bc31b582/2000k/hls/mixed.m3u8
+https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/okCA8Ek2vpLIAXiHidjIDIpgYzAZBUa0Dl06l
 #EXTINF:-1 tvg-id="完美世界" tvg-name="完美世界" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/完美世界.png" group-title="动漫",完美世界第161集
 https://adsmind.gdtimg.com/0b53rubdsaacvaalyjjrdjtkhdodhggqeoia.f160030.mp4?dis_k=cb151f5497653237da6e3623275d25f0&dis_t=1714654363
 #EXTINF:-1 tvg-id="完美世界" tvg-name="完美世界" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/完美世界.png" group-title="动漫",完美世界第162集
