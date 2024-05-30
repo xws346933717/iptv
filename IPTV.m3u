@@ -39,6 +39,10 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000494/ind
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 https://tv.cry33.com/ys4k.php?id=8k
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
+http://106.59.2.162:55555/udp/239.200.200.93:8088
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="央视",中学生
+http://106.59.2.162:55555/udp/239.200.200.136:8060
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
@@ -48,13 +52,13 @@ http://118.114.168.57:8888/udp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
 http://118.114.168.57:8888/udp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
-http://183.188.20.50:6000/rtp/226.0.2.220:9672
+http://36.46.99.79:8025/rtp/239.111.205.69:5140
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://183.188.20.50:6000/rtp/226.0.2.225:9712
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
-http://183.188.20.50:6000/rtp/226.0.2.218:9656
+http://106.59.2.162:55555/udp/239.200.200.83:8000
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
-http://183.188.20.50:6000/rtp/226.0.2.226:9720
+http://36.46.99.79:8025/rtp/239.111.205.72:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",世界地理
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
@@ -62,29 +66,29 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视文化精品
-http://183.188.20.50:6000/rtp/226.0.2.219:9664
+http://36.46.99.79:8025/rtp/239.111.205.75:5140
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/直播中国.png",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
-http://live.cgtn.com/1000/prog_index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="央视",CGTN纪录
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
-https://livees.cgtn.com/1000e/prog_index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
 https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
 #EXTINF:-1 group-title="教育" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png",中国教育1台
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000481/index.m3u8
 #EXTINF:-1 group-title="教育" tvg-logo="https://live.fanmingming.com/tv/中国教育2台.png",中国教育2台
-http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/1.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png",中国教育3台
-http://114.254.94.104:2222/rtp/239.3.1.55:4120
+http://qnap.yjnhome.com:4000/rtp/239.3.1.55:4120
 #EXTINF:-1 group-title="教育" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png",中国教育4台
-http://116.131.173.194:809/hls/100/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视IPV6",北京卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000173/index.m3u8?IAS
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视IPV6",湖南卫视
@@ -134,7 +138,7 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/ind
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视IPV6",陕西卫视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视IPV6",甘肃卫视
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000067BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视IPV6",吉林卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视IPV6",云南卫视
@@ -423,6 +427,7 @@ http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000086/ind
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000087/index.m3u8
 #EXTINF:-1 tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://live.fanmingming.com/tv/IHOT爱电竞.png" group-title="其他",爱电竞
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT1901932024041
 #EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="其他",爱谍战
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT1901932024041
 #EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="其他",爱动漫
@@ -497,6 +502,8 @@ http://118.114.168.57:8888/udp/239.93.42.55:5140
 http://118.114.168.57:8888/udp/239.93.1.176:5140
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" group-title="其他",中华美食
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000052/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000052&IASHttpSessionId=OTT1901932024041
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" group-title="其他",中华特产
+http://106.59.2.162:55555/udp/239.200.201.155:8124
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" group-title="其他",生态环境
 http://222.90.155.82:8888/rtp/239.111.205.60:5140
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="其他",环球旅游
@@ -559,6 +566,12 @@ https://epg.pw/stream/6a4d00df7e820e3e344d3fbf0323a207c5e3e2560b1f7cd7a6fc3fd46f
 https://epg.pw/stream/38656ad8339111cee7e54f8e04ab6ff7aac5cf126685319a1e4b17fd35747c08.ctv
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827034248695253_29.png",北京淘电影
 https://epg.pw/stream/0163d007c5f88cc778ce4b753afb81eb14f6ed35db2f1fb8f04b72b08a46eec4.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/淘精彩.png",北京淘精彩
+http://115.171.216.22:4000/udp/225.1.8.33:8002
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/萌宠TV.png",北京萌宠TV
+http://115.171.216.22:4000/udp/225.1.8.63:8002
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/北京4K.png",北京4K超清
+http://115.171.216.22:4000/udp/225.1.8.211:8002
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png",北京纪实8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="地方频道",卡酷少儿
@@ -600,7 +613,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
-http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方频道",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="地方频道",湖南视剧
@@ -629,137 +642,3 @@ https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d
 https://epg.pw/stream/259625f9cd412bc5d6d12bcbbe529129a32a8dd00caf955bd6479233d348d174.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg",内蒙古蒙语卫视
 https://epg.pw/stream/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8
-#EXTINF:-1 tvg-id="第二十条" tvg-name="第二十条" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/第二十条.png" group-title="电影",第二十条
-https://adsmind.gdtimg.com/0b532udckaagvyallyb5kntkpvodexkqmjia.f140030.mp4?dis_k=6a022b47326561728c031dbfc335dd61&dis_t=1715186849
-#EXTINF:-1 tvg-id="飞驰人生2" tvg-name="飞驰人生2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/飞驰人生2.png" group-title="电影",飞驰人生2
-https://adsmind.gdtimg.com/0b53k56wmad5y4aoz6cndftnyv6dmzlx2zqa.f140030.mp4?dis_k=267e91cbc4ea67f049b8e7bdc0a93968&dis_t=1714461535
-#EXTINF:-1 tvg-id="超意神探" tvg-name="超意神探" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/超意神探.png" group-title="电影",超意神探
-https://adsmind.gdtimg.com/0b53y4ao6aaaruakcpaosztkdr6d57dqb3ya.f140030.mp4?dis_k=9ea5171e0a4c33b4dc53f0015c13dca7&dis_t=1712218758
-#EXTINF:-1 tvg-id="冰封之城" tvg-name="冰封之城" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/冰封之城.png" group-title="电影",冰封之城
-https://jx.sumun.cn/Vtche/LZ/1349254507.m3u8
-#EXTINF:-1 tvg-id="狐妖小红娘月红篇" tvg-name="狐妖小红娘月红篇" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/狐妖小红娘月红篇.png" group-title="网剧",狐妖小红娘月红篇第01集
-https://adsmind.gdtimg.com/0b53qmajiaaa6iaihscpsrtkda6dssbqbfaa.f140030.mp4?dis_k=7c3fa0f0dfa76b445d46cb1253c6a96a&dis_t=1716460433
-#EXTINF:-1 tvg-id="狐妖小红娘月红篇" tvg-name="狐妖小红娘月红篇" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/狐妖小红娘月红篇.png" group-title="网剧",狐妖小红娘月红篇第02集
-https://adsmind.gdtimg.com/0b53iaaaeaaabuablrspovtkcqgdajaaaaqa.f140030.mp4?dis_k=ea5f227746173ffa7c4507ccc913be33&dis_t=1716460443
-#EXTINF:-1 tvg-id="狐妖小红娘月红篇" tvg-name="狐妖小红娘月红篇" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/狐妖小红娘月红篇.png" group-title="网剧",狐妖小红娘月红篇第03集
-https://adsmind.gdtimg.com/0b53xaaaaaaah4abpckppjtkdogdac4aaaaa.f140030.mp4?dis_k=73c744fe7e7251bc45c609aa757ecde9&dis_t=1716460453
-#EXTINF:-1 tvg-id="狐妖小红娘月红篇" tvg-name="狐妖小红娘月红篇" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/狐妖小红娘月红篇.png" group-title="网剧",狐妖小红娘月红篇第04集
-https://adsmind.gdtimg.com/0b53iyaakaaasiabefspnztkcrwdavdaabia.f140030.mp4?dis_k=8c47be2ffea3b170c2cf42fdd357bc5c&dis_t=1716460462
-#EXTINF:-1 tvg-id="狐妖小红娘月红篇" tvg-name="狐妖小红娘月红篇" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/狐妖小红娘月红篇.png" group-title="网剧",狐妖小红娘月红篇第05集
-https://adsmind.gdtimg.com/0b53bialiaaaaqanewsqjbtkccwdwqfabnaa.f140030.mp4?dis_k=55ae552ff1612f168c30378ec7837f00&dis_t=1716546750
-#EXTINF:-1 tvg-id="狐妖小红娘月红篇" tvg-name="狐妖小红娘月红篇" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/狐妖小红娘月红篇.png" group-title="网剧",狐妖小红娘月红篇第06集
-https://adsmind.gdtimg.com/0b53gyabeaaa2eahopsqnntkcnwdci3aaeqa.f140030.mp4?dis_k=4a61cddcac01c4de1a718d1327973836&dis_t=1716546761
-#EXTINF:-1 tvg-id="狐妖小红娘月红篇" tvg-name="狐妖小红娘月红篇" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/狐妖小红娘月红篇.png" group-title="网剧",狐妖小红娘月红篇第07集
-https://adsmind.gdtimg.com/0b53qeaa4aaabmalmrkrqntkdaodb2aqadqa.f140030.mp4?dis_k=c1be51d14e62c5ae35905aaded1061fa&dis_t=1716633014
-#EXTINF:-1 tvg-id="狐妖小红娘月红篇" tvg-name="狐妖小红娘月红篇" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/狐妖小红娘月红篇.png" group-title="网剧",狐妖小红娘月红篇第08集
-https://adsmind.gdtimg.com/0b533uab6aaaaeako7krtztkdxodd7oqahya.f140030.mp4?dis_k=80962cd3bd417118bae60b90cd294c52&dis_t=1716633024
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第01集
-https://adsmind.ugdtimg.com/0b53qmagaaaapqajgysf3rtkda6dmcbqayaa.f160030.mp4?dis_k=a413c46960a7c60d45129f3d204bc095&dis_t=1715861781
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第02集
-https://adsmind.ugdtimg.com/0b53jaacsaaavmanuksf7jtkcsgdffeaakia.f160030.mp4?dis_k=fbe5343803cd4db3f61f303b8ef0d763&dis_t=1715861790
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第03集
-https://adsmind.ugdtimg.com/0b53oqabkaaayuaodosf5ztkc5gdcv2aafia.f160030.mp4?dis_k=7e12c29348b9f9aa23e133a8a4cd90a9&dis_t=1715861799
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第04集
-https://adsmind.ugdtimg.com/0b53pqagiaaaleajdgcf3btkc7gdmr6aazaa.f160030.mp4?dis_k=0ad5faaacf108ef285a06c7bc6988e16&dis_t=1715861809
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第05集
-https://adsmind.ugdtimg.com/0b532aabeaaaceaopp2fcjtkdugdcliaaeqa.f160030.mp4?dis_k=aba8b6462cd83973125345a47fc8d912&dis_t=1715861818
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第06集
-https://adsmind.gdtimg.com/0b53hiacqaaapuagc52h2ztkcowdfa5aakaa.f160030.mp4?dis_k=5d4e7dfb8dcd36ca0299593c262e9bb6&dis_t=1715948453
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第07集
-https://adsmind.gdtimg.com/0b533aacuaaajiagfhchfbtkdwgdflmaakqa.f160030.mp4?dis_k=e71090ae92d628e062c6de6087b0fbc9&dis_t=1715948991
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第08集
-https://adsmind.gdtimg.com/0b53ueag2aaafuapilkiuztkdiodnwqqa3ia.f160030.mp4?dis_k=693a17c7a79a4c69bd72676507f833cd&dis_t=1716034712
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第09集
-https://adsmind.gdtimg.com/0b53buafuaaagyalgwcjqntkcdodligqawqa.f160030.mp4?dis_k=f3239b87fd1bf54254936f6254bd1008&dis_t=1716120494
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第10集
-https://adsmind.gdtimg.com/0b53iyagcaaafqaf3pcltntkcrwdmfdaayia.f160030.mp4?dis_k=d0f965d95d49a094768f8c2cec137bbd&dis_t=1716209681
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第11集
-https://adsmind.gdtimg.com/0b535majgaaav4ak7wslk5tkd26dspvqbeya.f160030.mp4?dis_k=9b28a9484694a924579ad045894dafe5&dis_t=1716209693
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第12集
-https://adsmind.gdtimg.com/0b53pmagqaaan4aog7cmw5tkc66dnb5qa2aa.f160030.mp4?dis_k=764cc782ab6c6fe11c724827ad2b6859&dis_t=1716293486
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第13集
-https://adsmind.gdtimg.com/0b53tqahmaaa5yap2psmovtkdhgdo2oaa5qa.f160030.mp4?dis_k=2dadad8c9a36b8654f0e01cb4aea1e94&dis_t=1716293495
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第14集
-https://adsmind.gdtimg.com/0b53rqaaeaaa5maomxsnlztkddgdakgaaaqa.f160030.mp4?dis_k=418f90d0da058fe32b11c50f2c82a6af&dis_t=1716382649
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第15集
-https://adsmind.gdtimg.com/0b53jiaocaaa54aar4cnljtkcswd4ffabyia.f160030.mp4?dis_k=c387f9cd6a5b4263482742cdcfcc6539&dis_t=1716382882
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第16集
-https://adsmind.gdtimg.com/0b53ouaaaaaatuaeoikpqvtkc5odab2qaaaa.f160030.mp4?dis_k=7192d03f06f6e7af3b3574e8d52ed1b2&dis_t=1716473124
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第17集
-https://adsmind.gdtimg.com/0b53ouaj2aaan4anj62pmntkc5odtv2qbhia.f160030.mp4?dis_k=c83b71027c8eae7f9ab0973b46e45ca4&dis_t=1716473133
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第18集
-https://adsmind.gdtimg.com/0b53duakcaaateadh3kqlztkchodueoqbiia.f160030.mp4?dis_k=0acb14fb6378330ae54e152dfedba47f&dis_t=1716558027
-#EXTINF:-1 tvg-id="庆余年2" tvg-name="庆余年2" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/庆余年2.png" group-title="网剧",庆余年2第19集
-https://adsmind.gdtimg.com/0b53kaacsaaatualvmcqp5tkcugdffiaakia.f160030.mp4?dis_k=6c0c883eea90618afb1c3ecd883e8f57&dis_t=1716558040
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第01集
-https://adsmind.gdtimg.com/0b53eiaaaaaajmamwgsbxrtkciwdaaraaaaa.f160030.mp4?dis_k=87948f762c12ef7563ebbe07dca30134&dis_t=1715590459
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第02集
-https://adsmind.gdtimg.com/0b53neaaoaaahmamzvkbwftkc2oda5uqabya.f160030.mp4?dis_k=2ced6838482eb20681ce6b0bb8cabbb5&dis_t=1715590469
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第03集
-https://adsmind.gdtimg.com/0b53deaq4aabpuamkgkaojtkagodbymqcdqa.f160030.mp4?dis_k=72871fa631e4f737319f2a20c5672a76&dis_t=1715590479
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第04集
-https://adsmind.gdtimg.com/0b53pqdloaag6aahzschertko7gdw56annya.f160030.mp4?dis_k=1e7ed074e8fab81fb83a01a8de5018f5&dis_t=1715590489
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第05集
-https://adsmind.gdtimg.com/0b533edj2aaguiafmichg5tkpwodtxmqnhia.f160030.mp4?dis_k=b4e6d77860bdd339b267eef17e05f7d1&dis_t=1715590498
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第06集
-https://adsmind.gdtimg.com/0b536yacsaaahmadm2cdsntkd5wdfh3aakia.f160030.mp4?dis_k=e43c7f6445b71f7cf7ce63150631ffed&dis_t=1715679948
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第07集
-https://adsmind.gdtimg.com/0b53hmac2aaagiaa2y2dsrtkco6dfu5qalia.f160030.mp4?dis_k=df18cca5796d20d04afcda00781960cc&dis_t=1715679957
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第08集
-https://adsmind.gdtimg.com/0b53qiafkaaabeab2kce7btkdawdkwbaavia.f160030.mp4?dis_k=62cc937523322819243a9306b4dda0a9&dis_t=1715751874
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第09集
-https://adsmind.gdtimg.com/0b532iakeaaajaaou2kehbtkduwduljabiqa.f160030.mp4?dis_k=7bee566b54f894aafb65afe95f5465a7&dis_t=1715751885
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第10集
-https://adsmind.gdtimg.com/0b53iqak2aaaqaaholsfgbtkcrgdvvcablia.f160030.mp4?dis_k=59329c38d223015d26b93feb2de869f4&dis_t=1715855348
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第11集
-https://adsmind.gdtimg.com/0b53myanuaaa4iaphnshiztkczwd3jtabwqa.f160030.mp4?dis_k=1a616a1b9e759b49bc87186f52d631cc&dis_t=1715943322
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第12集
-https://adsmind.gdtimg.com/0b53duafkaaauaacwsciq5tkchodkuoqavia.f160030.mp4?dis_k=ffde4b07bb0f8e51c552f8471cb7eee6&dis_t=1716029399
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第13集
-https://adsmind.gdtimg.com/0b53hqafuaaa6uajngsjqntkcpgdli6aawqa.f160030.mp4?dis_k=2c475508d99e0bb610d963500a22c0da&dis_t=1716114442
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第14集
-https://adsmind.gdtimg.com/0b53uiaf6aaawqab4w2luvtkdiwdl6raaxya.f160030.mp4?dis_k=ef023716bf978fd6bee8dd969482553e&dis_t=1716209854
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第15集
-https://adsmind.gdtimg.com/0b53y4ahwaaa6uadvycluftkdr6dppdqa6ya.f160030.mp4?dis_k=8cf16bb14cfe277f3fea5b1652defd12&dis_t=1716209865
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第16集
-https://adsmind.gdtimg.com/0b53e4aacaaafyagkskmjztkcj6daetqaaia.f160030.mp4?dis_k=5fa36ad99363d6f8ad2c4f554e3bb601&dis_t=1716287301
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第17集
-https://adsmind.gdtimg.com/0b53faabyaaaoaaluwknkztkckgddquaahaa.f160030.mp4?dis_k=ba3eceec22b2e34b521e444fae548044&dis_t=1716370548
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第18集
-https://adsmind.gdtimg.com/0b53nyai2aaaeiacw62noftkc3wdrvxabdia.f160030.mp4?dis_k=0452f045a6f6909a9c0e72b721c6da9e&dis_t=1716370571
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第19集
-https://adsmind.gdtimg.com/0b53e4ajqaaa3qajegcpmvtkcj6dtatqbgaa.f160030.mp4?dis_k=1a12926314b92410f9fd3c8614aa0112&dis_t=1716457783
-#EXTINF:-1 tvg-id="继承者" tvg-name="继承者" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/继承者.png" group-title="网剧",继承者第20集
-https://adsmind.gdtimg.com/0b53miakkaaay4apuisqurtkcywduvrabjia.f160030.mp4?dis_k=89e64ffe260c0b39eadd2686228d0493&dis_t=1716546278
-#EXTINF:-1 tvg-id="凡人修仙传" tvg-name="凡人修仙传" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/凡人修仙传.png" group-title="动漫",凡人修仙传第100集
-https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/o4y1vowGfAIECKwiYBmzh6AYpiAoiB07xtLEb1
-#EXTINF:-1 tvg-id="凡人修仙传" tvg-name="凡人修仙传" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/凡人修仙传.png" group-title="动漫",凡人修仙传第101集
-https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oQI2fAYAbcfkzxQ9DGQ7jfFZgPuFKAf7ExMnER
-#EXTINF:-1 tvg-id="凡人修仙传" tvg-name="凡人修仙传" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/凡人修仙传.png" group-title="动漫",凡人修仙传第102集
-https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/okCA8Ek2vpLIAXiHidjIDIpgYzAZBUa0Dl06l
-#EXTINF:-1 tvg-id="凡人修仙传" tvg-name="凡人修仙传" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/凡人修仙传.png" group-title="动漫",凡人修仙传第103集
-https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oYBbAVeUHFhPTDVXImED9wfgErTRgTaBBQRjUN
-#EXTINF:-1 tvg-id="完美世界" tvg-name="完美世界" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/完美世界.png" group-title="动漫",完美世界第161集
-https://adsmind.gdtimg.com/0b53rubdsaacvaalyjjrdjtkhdodhggqeoia.f160030.mp4?dis_k=cb151f5497653237da6e3623275d25f0&dis_t=1714654363
-#EXTINF:-1 tvg-id="完美世界" tvg-name="完美世界" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/完美世界.png" group-title="动漫",完美世界第162集
-https://adsmind.gdtimg.com/0b53uyapgaaaziadd6r4tbtkdjwd6otab4ya.f140030.mp4?dis_k=8aaca5568167cf65ca208d7dd4a850cf&dis_t=1715258549
-#EXTINF:-1 tvg-id="完美世界" tvg-name="完美世界" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/完美世界.png" group-title="动漫",完美世界第163集
-https://adsmind.gdtimg.com/0b53oaag6aaat4aji5cf3btkc4gdn5yaa3ya.f160030.mp4?dis_k=ee1ff99ab852b3f887ee67e44f0149e1&dis_t=1715863257
-#EXTINF:-1 tvg-id="完美世界" tvg-name="完美世界" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/完美世界.png" group-title="动漫",完美世界第164集
-https://adsmind.gdtimg.com/0b53ymaacaaa2qacibcppftkdq6dahbqaaia.f160030.mp4?dis_k=bb40c54c13322d67c3b1fcf387ae54af&dis_t=1716464364
-#EXTINF:-1 tvg-id="神印王座" tvg-name="神印王座" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/神印王座.png" group-title="动漫",神印王座第105集
-https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/oIzmMCPwnAu9VNCvgIFqM9QDufeAiOvEBDBgyE
-#EXTINF:-1 tvg-id="神印王座" tvg-name="神印王座" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/神印王座.png" group-title="动漫",神印王座第106集
-https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/ogMCmBEe2YDBgIAkIFUDBoJ8JQFSNPwEQQRJfN
-#EXTINF:-1 tvg-id="神印王座" tvg-name="神印王座" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/神印王座.png" group-title="动漫",神印王座第107集
-https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/owAiGeF1GIfgIL1PRxMALCiKQWbtAZfIKDgrdI
-#EXTINF:-1 tvg-id="神印王座" tvg-name="神印王座" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/神印王座.png" group-title="动漫",神印王座第108集
-https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/o4oeULXBAeRb2GZCIeSDVD8cCCIGnMwgAxCdQx
-#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第55集
-https://adsmind.gdtimg.com/0b53lqcgoaaem4ajajju6ftkkxgdm5oaizya.f160030.mp4?dis_k=c653906f1879eecd6854b85b0b9e4c0f&dis_t=1714487918
-#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第56集
-https://adsmind.gdtimg.com/0b53quacsaaaqeadmsj2kftkdbodfgcqakia.f160030.mp4?dis_k=4e0ebbd72ce4b88d503979b7f02e38a5&dis_t=1715167440
-#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第57集
-https://adsmind.gdtimg.com/0b53ruaasaaakmafahsdyrtkddodbggqacia.f160030.mp4?dis_k=c8da0571f83fbf2380684bbce40f81db&dis_t=1715690901
-#EXTINF:-1 tvg-id="遮天" tvg-name="遮天" tvg-logo="https://raw.kkgithub.com/xws346933717/iptv/main/picture/遮天.png" group-title="动漫",遮天第58集
-https://adsmind.gdtimg.com/0b53caaheaaabiaa7jkmrftkcegdoiiaa4qa.f190030.mp4?dis_k=816042044bc19a66e3796e3fff610b63&dis_t=1716292250
