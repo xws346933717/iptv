@@ -39,33 +39,33 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
-http://27.187.251.60:4300/rtp/239.254.200.104:6237
+http://enlen.vip:4022/udp/239.200.200.93:8088
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="央视",中学生
-http://27.187.251.60:4300/rtp/239.254.200.113:6243
+http://enlen.vip:4022/udp/239.200.200.136:8060
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
-http://27.187.251.60:4300/rtp/239.254.201.225:7249
+http://enlen.vip:4022/udp/239.200.200.91:8036
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
-http://27.187.251.60:4300/rtp/239.254.201.218:7258
+http://enlen.vip:4022/udp/239.200.200.82:8004
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
-http://27.187.251.60:4300/rtp/239.254.201.220:7256
+http://enlen.vip:4022/udp/239.200.200.85:8032
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
-http://27.187.251.60:4300/rtp/239.254.201.219:7257
+http://enlen.vip:4022/udp/239.200.200.84:8016
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
-http://27.187.251.60:4300/rtp/239.254.201.221:7259
+http://enlen.vip:4022/udp/239.200.200.86:8008
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://27.187.251.60:4300/rtp/239.254.201.222:7251
+http://enlen.vip:4022/udp/239.200.200.88:8020
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
-http://27.187.251.60:4300/rtp/239.254.201.217:7250
+http://enlen.vip:4022/udp/239.200.200.83:8000
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
-http://27.187.251.60:4300/rtp/239.254.201.228:7255
+http://enlen.vip:4022/udp/239.200.200.100:8084
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",世界地理
-http://27.187.251.60:4300/rtp/239.254.201.226:7254
+http://enlen.vip:4022/udp/239.200.200.130:8012
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
-http://27.187.251.60:4300/rtp/239.254.201.171:7176
+http://enlen.vip:4022/udp/239.200.200.135:8076
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
-http://27.187.251.60:4300/rtp/239.254.201.223:7252
+http://enlen.vip:4022/udp/239.200.200.89:8024
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视文化精品
-http://27.187.251.60:4300/rtp/239.254.201.229:7260
+http://enlen.vip:4022/udp/239.200.200.92:8028
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/直播中国.png",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
@@ -167,7 +167,7 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视IPV6",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台",星空卫视
-http://118.114.98.8:4022/udp/239.93.1.10:2193
+http://118.114.33.19:4022/udp/239.93.1.10:2193
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="卫视IPV6",人间卫视
 https://epg.pw/stream/ab7bcf5a18958aaf322e01631bd9d031db56960aeabbb526a8781fbe1c1f1ba3.m3u8
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="卫视IPV6",澳亚卫视
@@ -183,17 +183,31 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/index.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视IPV6",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视IPV6",CHC动作电影
-http://www.yao87.com:4022/udp/239.76.245.243:1234
+http://171.108.239.129:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视IPV6",CHC家庭影院
-http://www.yao87.com:4022/udp/239.76.245.241:1234
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="央视IPV6" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
-http://www.yao87.com:4022/udp/239.76.245.242:1234
+http://171.108.239.129:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="央视IPV6" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
+http://171.108.239.128:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" group-title="电影",美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" group-title="电影",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" group-title="电影",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="电影",东森洋片
+http://171.108.239.128:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="电影",东森电影
+http://171.108.239.129:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" group-title="综艺",东森超视
+http://171.108.239.128:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" group-title="电影",中国电影
+http://171.108.239.128:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="龙祥电影" tvg-name="龙祥电影" group-title="电影",龙祥电影
+http://171.108.239.128:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" group-title="电影",天映电影
+http://171.108.239.128:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="AMC电影台" tvg-name="AMC电影台" group-title="电影",AMC电影台
+https://stream1.freetv.fun/amcdian-ying-1.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="电视剧",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 #EXTINF:-1 tvg-id="Viu剧集台" tvg-name="Viu剧集台" group-title="电视剧",Viu剧集台
@@ -213,7 +227,7 @@ http://27.187.251.60:4300/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://www.yao87.com:4022/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+http://171.108.239.128:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
@@ -223,7 +237,7 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="其他",精彩影视
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
 #EXTINF:-1 tvg-id="台湾大爱" tvg-name="台湾大爱" tvg-logo="https://live.fanmingming.com/tv/大爱一台.png" group-title="港澳台",台湾大爱
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="台湾大爱" tvg-name="台湾大爱" tvg-logo="https://live.fanmingming.com/tv/大爱2.png" group-title="港澳台",台湾大爱2
@@ -239,15 +253,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="4K-UHD" group-title="•4K",4K-UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/index.m3u8
 #EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" group-title="其他",4K超清
-http://118.114.98.8:4022/udp/239.93.0.43:5140
+http://118.114.33.19:4022/udp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="4K测试" tvg-name="4K测试" group-title="其他",4K测试
-http://118.114.98.8:4022/udp/239.93.0.97:5140
+http://118.114.33.19:4022/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-name="Loupe" group-title="•4K",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="CHANNEL-V" tvg-name="CHANNEL-V" group-title="其他",CHANNEL-V
-http://118.114.98.8:4022/udp/239.93.1.7:2194
+http://118.114.33.19:4022/udp/239.93.1.7:2194
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="明星",成龙
 https://www.goodiptv.club/huya/11342386
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825" group-title="明星",沈腾
@@ -397,39 +411,39 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018926/1.m3u8?channel-id=bestzb
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海",东方影视
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.42.85:5140
+http://118.114.33.19:4022/udp/239.93.42.85:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.42.86:5140
+http://118.114.33.19:4022/udp/239.93.42.86:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.42.87:5140
+http://118.114.33.19:4022/udp/239.93.42.87:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.42.88:5140
+http://118.114.33.19:4022/udp/239.93.42.88:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.42.89:5140
+http://118.114.33.19:4022/udp/239.93.42.89:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.42.90:5140
+http://118.114.33.19:4022/udp/239.93.42.90:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.42.91:5140
+http://118.114.33.19:4022/udp/239.93.42.91:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.138:5140
+http://118.114.33.19:4022/udp/239.93.0.138:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.139:5140
+http://118.114.33.19:4022/udp/239.93.0.139:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.105:5140
+http://118.114.33.19:4022/udp/239.93.0.105:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.140:5140
+http://118.114.33.19:4022/udp/239.93.0.140:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.95:5140
+http://118.114.33.19:4022/udp/239.93.0.95:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.146:5140
+http://118.114.33.19:4022/udp/239.93.0.146:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.147:5140
+http://118.114.33.19:4022/udp/239.93.0.147:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.151:5140
+http://118.114.33.19:4022/udp/239.93.0.151:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.0.144:5140
+http://118.114.33.19:4022/udp/239.93.0.144:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
-http://118.114.98.8:4022/udp/239.93.1.135:5140
+http://118.114.33.19:4022/udp/239.93.1.135:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
 http://allinone.netsite.cc/douyu/36337
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
@@ -445,48 +459,58 @@ http://allinone.netsite.cc/douyu/85894
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
 http://allinone.netsite.cc/douyu/276200
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://118.114.98.8:4022/udp/239.93.0.57:9024
+http://171.108.239.128:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://118.114.98.8:4022/udp/239.93.0.56:9020
+http://171.108.239.128:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://118.114.98.8:4022/udp/239.93.0.193:9000
+http://118.114.33.19:4022/udp/239.93.0.193:9000
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://118.114.98.8:4022/udp/239.93.0.190:9012
+http://118.114.33.19:4022/udp/239.93.0.190:9012
+#EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
+http://171.108.239.128:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
+http://171.108.239.128:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
+http://171.108.239.128:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
+http://171.108.239.129:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
+http://171.108.239.128:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="iHOT爱生活" tvg-logo="https://live.fanmingming.com/tv/IHOT爱生活.png" group-title="iHOT",iHOT爱生活
-http://118.114.98.8:4022/udp/239.93.0.206:8028
+http://118.114.33.19:4022/udp/239.93.0.206:8028
 #EXTINF:-1 tvg-name="iHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="iHOT",iHOT爱谍战
-http://118.114.98.8:4022/udp/239.93.42.14:5140
+http://118.114.33.19:4022/udp/239.93.42.14:5140
 #EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="iHOT",iHOT爱动漫
-http://118.114.98.8:4022/udp/239.93.42.23:5140
+http://118.114.33.19:4022/udp/239.93.42.23:5140
 #EXTINF:-1 tvg-name="iHOT爱都市" tvg-logo="https://live.fanmingming.com/tv/IHOT爱都市.png" group-title="iHOT",iHOT爱都市
 #EXTINF:-1 tvg-name="iHOT爱怀旧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="iHOT",iHOT爱怀旧
 #EXTINF:-1 tvg-name="iHOT爱经典" tvg-logo="https://live.fanmingming.com/tv/IHOT爱经典.png" group-title="iHOT",iHOT爱经典
 #EXTINF:-1 tvg-name="iHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="iHOT",iHOT爱科幻
-http://118.114.98.8:4022/udp/239.93.42.10:5140
+http://118.114.33.19:4022/udp/239.93.42.10:5140
 #EXTINF:-1 tvg-name="iHOT爱科学" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科学.png" group-title="iHOT",iHOT爱科学
 #EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱浪漫.png" group-title="iHOT",iHOT爱浪漫
-http://118.114.98.8:4022/udp/239.93.42.21:5140
+http://118.114.33.19:4022/udp/239.93.42.21:5140
 #EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png" group-title="iHOT",iHOT爱历史
-http://118.114.98.8:4022/udp/239.93.42.13:5140
+http://118.114.33.19:4022/udp/239.93.42.13:5140
 #EXTINF:-1 tvg-name="iHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="iHOT",iHOT爱旅行
-http://118.114.98.8:4022/udp/239.93.42.16:5140
+http://118.114.33.19:4022/udp/239.93.42.16:5140
 #EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="iHOT",iHOT爱奇谈
-http://118.114.98.8:4022/udp/239.93.42.22:5140
+http://118.114.33.19:4022/udp/239.93.42.22:5140
 #EXTINF:-1 tvg-name="iHOT爱青春" tvg-logo="https://live.fanmingming.com/tv/IHOT爱青春.png" group-title="iHOT",iHOT爱青春
 #EXTINF:-1 tvg-name="iHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="iHOT",iHOT爱赛车
-http://118.114.98.8:4022/udp/239.93.42.20:5140
+http://118.114.33.19:4022/udp/239.93.42.20:5140
 #EXTINF:-1 tvg-name="iHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/IHOT爱体育.png" group-title="iHOT",iHOT爱体育
-http://118.114.98.8:4022/udp/239.93.42.19:5140
+http://118.114.33.19:4022/udp/239.93.42.19:5140
 #EXTINF:-1 tvg-name="iHOT爱玩具" tvg-logo="https://live.fanmingming.com/tv/IHOT爱玩具.png" group-title="iHOT",iHOT爱玩具
-http://118.114.98.8:4022/udp/239.93.42.18:5140
+http://118.114.33.19:4022/udp/239.93.42.18:5140
 #EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="iHOT",iHOT爱喜剧
-http://118.114.98.8:4022/udp/239.93.42.9:5140
+http://118.114.33.19:4022/udp/239.93.42.9:5140
 #EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/IHOT爱悬疑.png" group-title="iHOT",iHOT爱悬疑
-http://118.114.98.8:4022/udp/239.93.42.12:5140
+http://118.114.33.19:4022/udp/239.93.42.12:5140
 #EXTINF:-1 tvg-name="iHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="iHOT",iHOT爱幼教
-http://118.114.98.8:4022/udp/239.93.42.17:5140
+http://118.114.33.19:4022/udp/239.93.42.17:5140
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="iHOT",iHOT爱院线
-http://118.114.98.8:4022/udp/239.93.42.11:5140
+http://118.114.33.19:4022/udp/239.93.42.11:5140
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="其他",睛彩竞技
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="其他",睛彩青少
@@ -500,25 +524,25 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000063/index.m3u8?
 #EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="其他",咪咕视频
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000064/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000064&IASHttpSessionId=OTT1901932024041
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" group-title="其他",绚影4K
-http://118.114.98.8:4022/udp/239.93.42.33:5140
+http://118.114.33.19:4022/udp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="红色经典" tvg-name="红色经典" group-title="其他",红色经典
-http://118.114.98.8:4022/udp/239.93.1.176:5140
+http://118.114.33.19:4022/udp/239.93.1.176:5140
 #EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫" group-title="其他",中录动漫
-http://118.114.98.8:4022/udp/239.93.1.188:5140
+http://118.114.33.19:4022/udp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="PANDA卡通" tvg-name="PANDA卡通" group-title="其他",PANDA卡通
-http://118.114.98.8:4022/udp/239.93.1.175:5140
+http://118.114.33.19:4022/udp/239.93.1.175:5140
 #EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" group-title="其他",爱宠宠物
-http://118.114.98.8:4022/udp/239.93.42.32:5140
+http://118.114.33.19:4022/udp/239.93.42.32:5140
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" group-title="其他",乐龄学堂
-http://118.114.98.8:4022/udp/239.93.1.179:5140
+http://118.114.33.19:4022/udp/239.93.1.179:5140
 #EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学" group-title="其他",亲子趣学
-http://118.114.98.8:4022/udp/239.93.1.191:5140
+http://118.114.33.19:4022/udp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" group-title="其他",优优宝贝
 http://27.187.251.60:4300/rtp/239.254.201.186:6272
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="其他",天元围棋
-http://118.114.98.8:4022/udp/239.93.42.55:5140
+http://118.114.33.19:4022/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="综艺咖秀" tvg-name="综艺咖秀" group-title="其他",综艺咖秀
-http://118.114.98.8:4022/udp/239.93.1.176:5140
+http://118.114.33.19:4022/udp/239.93.1.176:5140
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" group-title="其他",中华美食
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000052/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000052&IASHttpSessionId=OTT1901932024041
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" group-title="其他",生态环境
@@ -532,69 +556,73 @@ http://27.187.251.60:4300/rtp/239.254.200.107:6255
 #EXTINF:-1 tvg-id="车迷频道" tvg-name="车迷频道" group-title="其他",车迷频道
 http://27.187.251.60:4300/rtp/239.254.201.162:6266
 #EXTINF:-1 tvg-id="汽摩频道" tvg-name="汽摩频道" group-title="其他",汽摩频道
-http://118.114.98.8:4022/udp/239.93.0.62:5140
+http://118.114.33.19:4022/udp/239.93.0.62:5140
 #EXTINF:-1 tvg-id="墨宝高清" tvg-name="墨宝高清" group-title="其他",墨宝高清
-http://118.114.98.8:4022/udp/239.93.0.215:9132
+http://118.114.33.19:4022/udp/239.93.0.215:9132
 #EXTINF:-1 tvg-id="军事高清" tvg-name="军事高清" group-title="其他",军事高清
-http://118.114.98.8:4022/udp/239.93.0.204:9076
+http://118.114.33.19:4022/udp/239.93.0.204:9076
 #EXTINF:-1 tvg-id="解密高清" tvg-name="解密高清" group-title="其他",解密高清
-http://118.114.98.8:4022/udp/239.93.0.199:9048
+http://118.114.33.19:4022/udp/239.93.0.199:9048
 #EXTINF:-1 tvg-id="地理高清" tvg-name="地理高清" group-title="其他",地理高清
-http://118.114.98.8:4022/udp/239.93.0.200:9052
+http://118.114.33.19:4022/udp/239.93.0.200:9052
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" group-title="其他",音乐现场
-http://118.114.98.8:4022/udp/239.93.0.198:9044
+http://118.114.33.19:4022/udp/239.93.0.198:9044
 #EXTINF:-1 tvg-id="空中剧院" tvg-name="空中剧院" group-title="其他",空中剧院
-http://118.114.98.8:4022/udp/239.93.0.217:9208
+http://118.114.33.19:4022/udp/239.93.0.217:9208
 #EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" group-title="其他",百姓健康
-http://118.114.98.8:4022/udp/239.93.42.35:5140
+http://118.114.33.19:4022/udp/239.93.42.35:5140
 #EXTINF:-1 tvg-id="精彩推荐" tvg-name="精彩推荐" group-title="其他",精彩推荐
-http://118.114.98.8:4022/udp/239.93.1.5:5140
+http://118.114.33.19:4022/udp/239.93.1.5:5140
 #EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视" group-title="其他",电信导视
-http://118.114.98.8:4022/udp/239.93.0.110:5140
+http://118.114.33.19:4022/udp/239.93.0.110:5140
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="体育" tvg-name="体育" group-title="其他",体育
-http://118.114.98.8:4022/udp/239.93.0.135:9008
+http://118.114.33.19:4022/udp/239.93.0.135:9008
 #EXTINF:-1 tvg-id="Now Sports" tvg-name="Now Sports" group-title="其他",Now Sports
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
 #EXTINF:-1 tvg-id="Now Sports" tvg-name="Now Sports" group-title="其他",SPOTV
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="导视" tvg-name="导视" group-title="其他",导视
-http://118.114.98.8:4022/udp/239.93.0.129:5140
+http://118.114.33.19:4022/udp/239.93.0.129:5140
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字",求索纪录
-http://118.114.98.8:4022/udp/239.93.42.24:5140
+http://118.114.33.19:4022/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="数字",求索科学
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
 #EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="数字",求索生活
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000008
 #EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="数字",求索动物
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
+#EXTINF:-1 tvg-id="风尚音乐" tvg-name="风尚音乐" group-title="其他",风尚音乐
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5529729098703832176
+#EXTINF:-1 tvg-id="高清娱乐" tvg-name="高清娱乐" group-title="其他",高清娱乐
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000001569
 #EXTINF:-1 tvg-id="电子竞技" tvg-name="电子竞技" group-title="其他",电子竞技
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000011654
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="数字",动物星球
 https://epg.pw/stream/781aa20d6f614e39bb1004490cccac6cb55acbf4b944444a82473dd06a45e988.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827034357938063_61.png",熊猫频道
-http://118.114.98.8:4022/udp/239.93.1.178:5140
+http://118.114.33.19:4022/udp/239.93.1.178:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" group-title="地方频道",峨眉电影
-http://118.114.98.8:4022/udp/239.93.0.252:5140
+http://118.114.33.19:4022/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="成都频道" tvg-name="成都频道" group-title="地方频道",成都频道
-http://118.114.98.8:4022/udp/239.93.1.104:1234
+http://118.114.33.19:4022/udp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="CDTV-1" tvg-name="CDTV-1" group-title="地方频道",CDTV-1
-http://118.114.98.8:4022/udp/239.93.0.16:5140
+http://118.114.33.19:4022/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="CDTV-2" tvg-name="CDTV-2" group-title="地方频道",CDTV-2
-http://118.114.98.8:4022/udp/239.93.0.17:1239
+http://118.114.33.19:4022/udp/239.93.0.17:1239
 #EXTINF:-1 tvg-id="CDTV-3" tvg-name="CDTV-3" group-title="地方频道",CDTV-3
-http://118.114.98.8:4022/udp/239.93.0.18:1238
+http://118.114.33.19:4022/udp/239.93.0.18:1238
 #EXTINF:-1 tvg-id="CDTV-4" tvg-name="CDTV-4" group-title="地方频道",CDTV-4
-http://118.114.98.8:4022/udp/239.93.0.19:1250
+http://118.114.33.19:4022/udp/239.93.0.19:1250
 #EXTINF:-1 tvg-id="CDTV-5" tvg-name="CDTV-5" group-title="地方频道",CDTV-5
-http://118.114.98.8:4022/udp/239.93.1.231:5140
+http://118.114.33.19:4022/udp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="CDTV-6" tvg-name="CDTV-6" group-title="地方频道",CDTV-6
-http://118.114.98.8:4022/udp/239.93.0.21:1251
+http://118.114.33.19:4022/udp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="CDTV-8" tvg-name="CDTV-8" group-title="地方频道",CDTV-8
-http://118.114.98.8:4022/udp/239.93.0.22:1252
+http://118.114.33.19:4022/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="CDTV-蓉城先锋" tvg-name="CDTV-蓉城先锋" group-title="地方频道",CDTV-蓉城先锋
-http://118.114.98.8:4022/udp/239.93.0.91:2101
+http://118.114.33.19:4022/udp/239.93.0.91:2101
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513150106066939_87.jpg",rRB影视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="纪实",纪实人文
