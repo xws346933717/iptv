@@ -181,11 +181,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/index.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视IPV6",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视IPV6",CHC动作电影
-http://171.108.239.129:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视IPV6",CHC家庭影院
-http://171.108.239.129:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="央视IPV6" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
-http://171.108.239.128:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" group-title="电影",美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" group-title="电影",1905电影网
@@ -193,17 +193,17 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" group-title="电影",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="电影",东森洋片
-http://171.108.239.128:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="电影",东森电影
-http://171.108.239.129:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" group-title="综艺",东森超视
-http://171.108.239.128:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" group-title="电影",中国电影
-http://171.108.239.128:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="龙祥电影" tvg-name="龙祥电影" group-title="电影",龙祥电影
-http://171.108.239.128:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" group-title="电影",天映电影
-http://171.108.239.128:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="AMC电影台" tvg-name="AMC电影台" group-title="电影",AMC电影台
 https://stream1.freetv.fun/amcdian-ying-1.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="电视剧",ViuTV
@@ -225,7 +225,7 @@ http://27.187.251.60:4300/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://175.0.95.45:9000/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-http://171.108.239.128:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
@@ -459,23 +459,23 @@ http://allinone.netsite.cc/douyu/85894
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" group-title="BesTV",BesTV
 http://allinone.netsite.cc/douyu/276200
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://171.108.239.128:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://171.108.239.128:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
 http://118.113.53.194:8848/udp/239.93.0.193:9000
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
 http://118.113.53.194:8848/udp/239.93.0.190:9012
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://171.108.239.128:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://171.108.239.128:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://171.108.239.128:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://171.108.239.129:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="华数TV" tvg-name="华数TV" group-title="华数",华数TV
-http://171.108.239.128:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.108.239.126:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="iHOT爱生活" tvg-logo="https://live.fanmingming.com/tv/IHOT爱生活.png" group-title="iHOT",iHOT爱生活
 http://118.113.53.194:8848/udp/239.93.0.206:8028
 #EXTINF:-1 tvg-name="iHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="iHOT",iHOT爱谍战
@@ -650,11 +650,13 @@ http://1.203.76.10:7788/udp/225.1.8.211:8002
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png",北京体育休闲
 http://1.203.76.10:7788/udp/225.1.8.23:8002
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="地方频道",北京卡酷少儿
-https://stream1.freetv.fun/jin-ying-qia-tong-11.m3u8
+http://171.108.239.126:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="地方频道",哈哈炫动
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="地方频道",优漫卡通
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="地方频道",嘉佳卡通
+http://171.108.239.126:8181/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="教育",山东教育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="教育频道" tvg-name="教育频道" tvg-logo="https://epg.112114.xyz/logo/教育频道.png" group-title="教育",教育频道
@@ -662,7 +664,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888890/224/
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
-https://stream1.freetv.fun/hu-nan-jin-ying-qia-tong-1.m3u8
+http://171.108.239.126:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方频道",湖南爱晚
 http://175.0.95.45:9000/udp/239.76.245.123:1234
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="地方频道",湖南视剧
