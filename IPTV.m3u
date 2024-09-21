@@ -180,11 +180,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/index.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视IPV6",大湾区卫视
 https://stream1.freetv.fun/da-wan-qu-wei-shi-12.ctv
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视IPV6",CHC动作电影
-http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.57.109.48:1111/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视IPV6",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="央视IPV6" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
-http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" group-title="电影",美亚电影台
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" group-title="电影",1905电影网
 https://stream1.freetv.fun/1905guo-nei-dian-ying-1.ctv
@@ -683,15 +683,15 @@ http://116.128.242.83:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="地方频道",湖南视剧
 http://116.128.242.83:9901/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="地方频道",湖南电影
-http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
+http://175.8.212.107:8081/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="地方频道",湖南都市
-http://116.128.242.83:9901/tsfile/live/0139_1.m3u8
+http://175.8.212.107:8081/tsfile/live/0018_1.m3u8
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="地方频道",湖南国际
-https://stream1.freetv.fun/hu-nan-guo-ji-2.ctv
+http://175.8.212.107:8081/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="地方频道",湖南经视
 http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="地方频道",湖南娱乐
-http://116.128.242.83:9901/tsfile/live/0125_1.m3u8
+http://175.8.212.107:8081/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.com/tv/湖南教育台.png" group-title="地方频道",湖南教育
 https://stream1.freetv.fun/hu-nan-jiao-yu-2.m3u8
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png",茶频道
@@ -701,27 +701,29 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000067/index.m3u8?
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png",先锋乒羽
 https://stream1.freetv.fun/xian-feng-ping-yu-6.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-10.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-9.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-4.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-8.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-7.ctv
+https://stream1.freetv.fun/dian-ying-1.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-2.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-32.ctv
+https://stream1.freetv.fun/dian-ying-4.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-37.ctv
+https://stream1.freetv.fun/dian-ying-5.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-33.ctv
+https://stream1.freetv.fun/dian-ying-6.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-17.ctv
+https://stream1.freetv.fun/dian-ying-8.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-18.ctv
+https://stream1.freetv.fun/dian-ying-9.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-10.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-11.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-13.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-14.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-15.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-19.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
@@ -733,17 +735,11 @@ https://stream1.freetv.fun/dian-ying-22.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-23.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-24.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-25.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-26.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-5.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-14.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-15.ctv
+https://stream1.freetv.fun/dian-ying-27.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-28.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
@@ -751,7 +747,19 @@ https://stream1.freetv.fun/dian-ying-29.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-31.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-11.ctv
+https://stream1.freetv.fun/dian-ying-34.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-35.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-36.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-37.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-39.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-4-1.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-42.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-43.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
@@ -793,16 +801,23 @@ https://stream1.freetv.fun/dian-ying-61.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-62.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-63.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-66.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-68.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-69.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-72.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-74.ctv
+#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
+https://stream1.freetv.fun/dian-ying-79.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-82.ctv
 #EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
 https://stream1.freetv.fun/dian-ying-83.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-0-1.m3u8
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-4-1.m3u8
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-3.ctv
-#EXTINF:-1 tvg-name="電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/" group-title="測試",电影
-https://stream1.freetv.fun/dian-ying-13.m3u8
+
+
+
